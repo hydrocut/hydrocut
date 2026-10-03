@@ -8,6 +8,7 @@ Ce qui me fait avancer, c'est l'envie de voir une idée tourner pour de vrai.
 
 [**TeamKit**](https://www.teamkit.fr) est une communauté de joueurs française qui offre des **serveurs de jeux gratuits**,
 créés à la demande : site, panel, bot Discord et cycle de vie automatique.
+Retrouve l'organisation sur GitHub : [**@TeamKitFR**](https://github.com/TeamKitFR).
 
 ### 🧩 Ce que je partage
 
